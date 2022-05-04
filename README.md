@@ -14,5 +14,3 @@
 </div>
 
  
-   ![Snake animation](https://github.com/Viniciuseduaro1/Viniciuseduardo1/blob/output/github-contribution-grid-snake.svg)
- 
