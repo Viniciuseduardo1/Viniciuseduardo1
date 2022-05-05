@@ -1,5 +1,7 @@
-👋🏻 Olá, me chamo Vinicius Eduardo,
-👨🏻‍🎓 Sou estudante de Analise e Desenvolvimento de Sistemas,
+👋🏻 Olá, me chamo Vinicius Eduardo
+
+👨🏻‍🎓 Sou estudante de Analise e Desenvolvimento de Sistemas
+
 👩🏽‍💻 Estudando atualmente html e css.
 
 
