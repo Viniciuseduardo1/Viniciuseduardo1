@@ -31,3 +31,5 @@
 </div>
 
  
+  ![Snake animation](https://github.com/Viniciuseduardo1/Viniciuseduardo1/blob/output/github-contribution-grid-snake.svg)
+ 
